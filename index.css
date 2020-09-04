@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(255, 73, 73);
+    color: white;
+}
+
+h1 {
+    font-family: "Cedarville Cursive";
+    font-size: 5rem;
+    text-align: center;
+}
+
+p {
+    font-family: "fjalla one";
+    font-size: 2rem;
+    letter-spacing: 2px;
+    text-align: center;
+    text-shadow: 4px 4px 4px  gray;
+    width: 75%;
+    margin: auto;
+}
+
+.flex {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 2%;
+    background-color: gray;
+    color: white;
+    font-size: 2rem;
+}
+
+.results {
+    margin: 8% auto;
+    font-family: "Architects daughter";
+    font-size: 2rem;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 90%;
+    
+}
